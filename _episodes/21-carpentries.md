@@ -257,7 +257,8 @@ o las siguientes referencias específicas del Programa de Lecciones:
 Carpintería de datos
 Carpintería de biblioteca
 Páginas del taller de carpintería de software .
-Políticas relacionadas con la capacitación y talleres de instructores Las Carpinterías se pueden encontrar en el repositorio de políticas . Asegúrese de leer la política de no presentación del instructor antes de inscribirse en su primer taller.
+Políticas relacionadas con la capacitación y talleres de instructores Las Carpinterías se pueden encontrar en el repositorio de políticas . Asegúrese de leer la política del ausencia del instructor antes de inscribirse en su primer taller. En resumen, si su asistencia ha sido pagada y usted no se presenta, podría ser que usted fuera responsable del costo de este viaje.
+
 > ## Local Support
 >
 > There is a great list
@@ -309,7 +310,26 @@ or the the following Lesson Program specific references:
 * [Software Carpentry](https://software-carpentry.org/workshops/request/) workshop pages.
 
 Policies related to instructor training and workshops The Carpentries can be found in [the policies repository](https://github.com/carpentries/policies). Please
-be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
+be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop. 
+
+
+### Organization previa a un taller
+Con el fin de comunicarnos con los alumnos y ayudarnos a realizar un seguimiento de quién enseñó qué y dónde, los instructores de cada taller crean un sitio web de una página con información sobre su taller. Una vez que se ha creado, el anfitrión o instructor principal envía su URL al coordinador del taller , quien lo agrega a nuestros registros. El taller se mostrará en nuestros sitios web poco después.
+
+También puede crear un etherpad para sus propios eventos relacionados con Carpinterías. Cuando visite una url en pad.carpentries.org/nombre-de-pad , llegará a un etherpad existente con ese nombre o a un nuevo etherpad con información básica de Carpentries en la parte superior. Para los talleres, utilizamos año-mes-día-ubicación como el nombre para asegurar nombres únicos.
+
+Practique con la infraestructura de carpintería
+Vaya al repositorio de plantillas del taller y siga las instrucciones para crear un sitio web del taller utilizando su ubicación local y la fecha de hoy. Ponga el enlace para el sitio web de su taller en el Etherpad.
+
+Este ejercicio debería tomar unos 25 minutos.
+
+Nota: A veces, los navegadores web almacenan en caché la página web del taller, por lo que cuando realiza cambios en GitHub, no se muestran en la página web del taller de inmediato. Dos formas de evitar esto son utilizar un modo "privado" o "incógnito" en su navegador web o siguiendo estas instrucciones para omitir la memoria caché de su navegador .
+
+Pregunta y respuesta
+¿Qué preguntas tienes sobre organizar y enseñar en un taller? Hable con un compañero e ingrese sus preguntas en el Etherpad. En este momento también volveremos a discutir las preguntas que quedan desde el comienzo del día.
+
+Deje unos 10 minutos para esta discusión.
+
 
 ### Setting Up
 
@@ -350,6 +370,16 @@ to ensure unique names.
 > Leave about 10 minutes for this discussion.
 {: .challenge}
 
+# Una cultura de contribución
+De la misma manera que esperamos promover una cultura de apertura, intercambio y reproducibilidad en la ciencia y la investigación a través de la capacitación de investigadores con las herramientas que necesitan, las propias organizaciones de Carpintería apuntan a ser abiertas, colaborativas y basadas en buenas prácticas. Queremos reunir la experiencia colectiva de nuestra comunidad docente para crear lecciones colaborativas, compartir otros materiales y mejorar las lecciones a través de "correcciones de errores" a medida que avanzamos.
+
+Incubación de lecciones
+¡Tal vez esta capacitación de instructores te haya inspirado a ir a casa y escribir tu propia lección fantástica! Si desea crearlo segun el formato de la lección Carpintería de software, datos y biblioteca, puede encontrar una plantilla e instrucciones en el repositorio de ejemplo de la lección Carpinterías .
+
+Muchas formas de contribuir
+Reconocemos que el medio de GitHub puede ser restrictivo para aquellos que desean contribuir a nuestras lecciones. Siempre estamos buscando formas de hacer que el proceso sea más amigable para todos, ya sea capacitación de contribución o rutas alternativas. Si tiene alguna idea de cómo podemos hacer que la contribución sea más fácil para los contribuyentes, háganoslo saber.
+
+Ser parte de una discusión amistosa y abierta es de igual o mayor importancia para la comunidad que presentar una lección perfecta. El proceso de finalización para convertirse en un instructor certificado será una forma de comenzar a conectarse con la comunidad y encontrar qué área le permitirá contribuir mejor.
 
 ## A Culture of Contribution
 
@@ -420,3 +450,26 @@ build local and global communities of practice around  skills for data analysis,
 >
 > Take a couple of minutes to sign up for the Carpentry discussion channels you want to stay involved with.
 {: .challenge}
+
+# La comunidad de carpinterías
+Como puede imaginar, sobre la base a lo anterior, ¡hay muchos aspectos en la ejecución de Carpinterías! Si bien hay una pequeña cantidad de personal dedicado que trabaja para la organización Carpinterías, el verdadero poder de las Carpinterías está en su comunidad de voluntarios que asumen todo tipo de roles para enseñar y organizar talleres, ayudar a producir y mantener lecciones, y lo más importante , crear comunidades de práctica locales y globales en torno a habilidades para el análisis de datos, el pensamiento computacional y el desarrollo de software de investigación. Nuestra comunidad depende de personas como usted a quienes les apasiona expandir estas comunidades a través de prácticas de instrucción inclusivas y basadas en evidencia. Ustedes pueden contribuir con su perspectiva y experiencia para refinar continuamente nuestros materiales y prácticas de instrucción. Puede encontrar i) una descripción completa de la amplitud y diversidad de los roles de los miembros de la comunidad, ii) una descripción general de los diversos canales de redes sociales de Carpentries, iii) un calendario de futuros eventos de la comunidad y iv) descripciones de las listas de correo utilizadas por la comunidad aquí en el sitio web de Carpentries y también en la página de conexión .
+
+*** links above*** 
+
+Participando en las carpinterías: ¿cuál es su papel?
+Si está en una capacitación en persona, su instructor le entregará copias en papel de una hoja de trabajo. Si está en una capacitación en línea, puede obtener una copia digital aquí .
+
+Tómese un momento para revisar los roles de la comunidad de miembros en el sitio web de la comunidad de Carpinterías . Trabajando por su cuenta, combine los roles con las descripciones. Cuando termine, piense en la pregunta que se encuentra al final de la hoja de trabajo sobre los roles que podría desempeñar e ingrese sus ideas en el Etherpad.
+
+Solución 
+Este ejercicio debería tomar unos 10 minutos.
+
+Conectarse
+Tómese un par de minutos para inscribirse en los canales de discusión de Carpintería con los que desea participar.
+
+Puntos clave
+Todos los materiales de carpintería tienen licencia abierta, pero los nombres y logotipos de software y carpintería de datos están registrados.
+
+Los talleres de carpintería deben cubrir conceptos básicos, tener al menos un instructor certificado y utilizar nuestras encuestas previas y posteriores al taller.
+
+En The Carpentries Handbook se proporciona orientación para la enseñanza y la organización de talleres .
