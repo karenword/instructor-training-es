@@ -16,6 +16,7 @@ keypoints:
 - "[Guidance for teaching and hosting workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) is provided in [The Carpentries Handbook](https://docs.carpentries.org)."
 
 ---
+Al convertirse en un instructor certificado de carpintería , también se está convirtiendo en parte de una comunidad de voluntarios con ideas afines. Esta sección proporciona algunos antecedentes sobre la organización The Carpentries , cómo participar en una de nuestras actividades principales (llevar a cabo talleres) y otras formas de involucrarse con la comunidad.
 
 In becoming a certified [Carpentries instructor](https://carpentries.org/instructors/),
 you are also becoming part of a community of like-minded volunteers.
@@ -23,6 +24,18 @@ This section provides some background on
 [The Carpentries]({{ site.carpentries_site }}) organization, how to participate
 in one of our primary activities (running workshops), and other ways to get
 involved with the community.
+
+Software Carpentry se fundó en 1998 con la misión de enseñar habilidades para la investigación en computación. Data Carpentry se fundó en 2014 con la misión de construir comunidades que enseñen la alfabetización universal de datos.
+
+*** maybe fix above
+
+También en 2014, Library Carpentry se fundó con la misión de enseñar habilidades de manejo de datos a personas que trabajan en roles relacionados con la biblioteca y la información.
+
+El 1 de enero de 2018, Carpintería de software y Carpintería de datos fusionaron sus proyectos para formar un nuevo proyecto llamado The Carpentries bajo el patrocinio de Community Initiatives. Dentro de esta nueva estructura organizacional, Software and Data Carpentry conservan sus identidades individuales como "lesson programs" de The Carpentries. El 1 de noviembre de 2018, el Consejo Ejecutivo de Carpentries aprobó Library Carpentry como el tercer "lesson program" oficial de The Carpentries.
+
+El proyecto Carpentries comprende comunidades de instructores, entrenadores, mantenedores, ayudantes y simpatizantes de Software , Data and Library Carpentry que comparten la misión de enseñar habilidades básicas de computación y ciencia de datos.
+
+*** maybe fix simpatizantes
 
 ## A Brief History
 
@@ -53,6 +66,38 @@ You can learn more about the history and goals of each Lesson Program by reading
 "[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)",
 "[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)" and
 "[Library Carpentry: software skills training for library professionals](https://www.liberquarterly.eu/article/10.18352/lq.10176/)"".
+
+# Similitudes y diferencias entre los Carpentries Lesson Programs
+Todos los programas de lecciones de The Carpentries comparten la misma intención de promover prácticas de investigación eficientes, comunicables y reproducibles. Sus misiones alineadas se logran mediante la realización de talleres de capacitación accesibles e inclusivos; enseñanza de lecciones de alta calidad, desarrolladas por la comunidad y de libre disposición; y fomentando una comunidad de instructores activa, inclusiva y diversa que promueve la investigación reproducible.
+
+Las similitudes entre los talleres de Software, Data and Library Carpentry incluyen:
+
+Un enfoque en las habilidades técnicas.
+Un formato de dos días impartido por instructores voluntarios. (El largo de estos talleres podria ser flexible.)
+especial attencion en llenar vacíos en las habilidades de los estudiantes actuales.
+Las principales diferencias entre los talleres de Software, Data and Library Carpentry son su contenido y la audiencia prevista.
+
+Los talleres de Software Carpentry son:
+
+- destinado a personas que necesitan programar de manera más efectiva para resolver sus desafíos computacionales,
+- no específico del area de estudio, y
+- modular: cada lección de Software Carpentry es independiente.
+
+Talleres de Data Carpentry:
+
+- están dirigidos a principiantes sin experiencia previa,
+- son específicos del area de estudio,
+- se centran en buenas prácticas del manejo de datos, y
+- presentar un plan de estudios completo centrado en un solo conjunto de datos.
+
+Talleres de Library Carpentry:
+
+- están dirigidos a personas en funciones relacionadas con la biblioteca y la información,
+- se centran en buenas prácticas de la estructura de datos, y
+- son modulares: cada lección de Library Carpentry es independiente.
+- A veces son menos de dos días.
+
+En una representación visual, estas similitudes y diferencias se ven así:
 
 ## Similarities and Differences between The Carpentries Lesson Programs
 
@@ -93,6 +138,20 @@ In a visual representation, these similarities and differences look like this:
 
 ![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
 
+# ¿Qué es un taller de Carpentries? Las normas.
+Usando los nombres y logotipos
+Los nombres "Carpintería de software", "Carpintería de datos" y "Carpintería de biblioteca" y sus respectivos logotipos están todos registrados. Solo puede llamar a un taller taller de Carpintería de software, Carpintería de datos o Carpintería de biblioteca si:
+
+- Cubre los temas centrales (ver más abajo),
+- al menos uno de los instructores es un instructor certificado de carpintería,
+- ejecuta nuestras evaluaciones estandarizadas antes y después del taller y se asegura de que todos participen, y
+nos envía información resumida sobre los asistentes (como mínimo, la cantidad de personas que asistieron).
+Materiales
+Tenga en cuenta que los materiales de lecciones individuales de Carpintería de software, Carpintería de datos y Carpintería de biblioteca están disponibles gratuitamente bajo una licencia abierta. Esto significa que puede usarlos en contextos fuera de un taller de Carpintería (por ejemplo, como material introductorio en un curso más largo, como una sesión independiente de 2-3 horas, como ejercicios de tarea, etc.) siempre que cite la fuente original.
+
+**check with Nico about licensing language**
+
+Es solo cuando desea ejecutar un taller con la marca “Carpentries” es que debe utilizar los requisitos enumerados anteriormente.
 
 ## What is a Carpentries Workshop? The Rules.
 
@@ -118,6 +177,21 @@ provided you cite the original source.
 
 It is only when you want to run a branded "Carpentries" workshop using the materials
 that the requirements listed above are needed.
+
+
+### ¿Qué es el plan de estudios básico?
+Un taller de Carpintería de software debe incluir lecciones sobre control de versiones (por ejemplo, Git), el shell de UNIX y un lenguaje de programación (por ejemplo, R o Python).
+
+Un taller de carpintería de datos debe incluir una lección de carpintería de datos sobre organización de datos y otros tres módulos en el mismo area del plan de estudios de carpintería de datos. Los planes de estudio publicados incluyen los materiales del taller de Ecología, Genómica, Ciencias Sociales y Geoespaciales. Además, se están desarrollando currículos de astronomía, humanidades digitales, economía y análisis de imágenes.
+
+Un taller de carpintería de biblioteca debe incluir de tres a cuatro de las lecciones principales , que incluyen una introducción a los datos, el shell de UNIX, OpenRefine y Git. Library Carpentry también mantiene un conjunto "extendido" de lecciones que se pueden enseñar además del plan de estudios básico. Estas lecciones se enseñan con poca frecuencia o están en desarrollo e incluyen: SQL, webscraping, Python y una introducción a los datos para los bibliotecario.
+
+Cada leccion esta compuesta por diferentes "episodios." Vea un ejemplo [aqui](https://swcarpentry.github.io/shell-novice-es/), donde "Navegación de archivos y directorios" o "Pipes y Filtros" son episodios. Dentro de estas pautas, hay flexibilidad en los episodios de la lección que cubre, los ejercicios que usa y si incluye episodios opcionales.
+
+¿Quién puede enseñar qué?
+Las personas que hayan completado el curso de capacitación de instructores de dos días y hayan completado el proceso de pago se consideran instructores de carpintería "certificados" y pueden enseñar los planes de estudio para cualquiera de los programas de lecciones (Carpintería de software, Carpintería de datos o Carpintería de biblioteca). Si bien los certificados de instructor pueden tener una afiliación al programa de lecciones primarias, no se requiere que los instructores se certifiquen por separado para cada uno. Para obtener más información, consulte la descripción del procedimiento de finalización de la certificación.
+
+Tenga en cuenta que mientras tenga al menos un instructor certificado, los otros instructores y ayudantes en un taller de marca Carpentries no tienen que estar certificados. Confiamos en el criterio de los organizadores locales para reclutar y orientar voluntarios que encarnen el espíritu y las prácticas de Carpinterías.
 
 ### What is the Core Curriculum?
 
@@ -157,6 +231,33 @@ instructors and helpers at a branded workshop do not have to be certified. We
 rely on the judgment of local organizers to recruit and orient volunteers who
 will embody the Carpentries ethos and practices.
 
+
+Apoyo local
+Vea aquí en el Carpentries Handbook [ .
+
+Cómo ejecutar un taller de carpintería
+El Manual de Carpinterías es un recurso desarrollado por la comunidad que proporciona consejos, listas de verificación y puntos de contacto para casi todas las actividades relacionadas con Carpinterías en un solo lugar. El Manual de Carpinterías es la fuente de políticas e información. Aquí, cubriremos información sobre cómo llevar a cabo un taller.
+
+En resumen, hay dos tipos de talleres de carpintería: centralmente organizados y autoorganizados. Los talleres organizados centralmente están organizados por un equipo de coordinadores regionales que se encargan de la logística y la administración, como encontrar instructores y manejar el registro de participantes del taller. Para los talleres autoorganizados, la organización que organiza el evento es responsable de estos detalles.
+
+Talleres como instructor
+Como instructor, es posible que enseñe principalmente en talleres locales o que no tenga oportunidades locales, o simplemente desee enseñar en otro lugar.
+
+Si desea enseñar de manera no local, debe asegurarse de unirse a nuestra lista de correo de instructores para recibir notificaciónes a cerca de las próximas oportunidades de enseñanza. Discutirémos esto a continuación.
+
+Tenga en cuenta que Carpinterías no garantiza que los instructores puedan enseñar en los talleres después de recibir capacitación, por lo que la mejor manera de asegurarse de que pueda enseñar (si lo desea) es intentar organizar un taller o incluso una sola lección por si mismo. Puede parecer desalentador organizar su propio taller, pero siempre y cuando tenga de 1 a 2 personas que puedan ayudar o co-instruir, el personal y la comunidad de Carpinterías pueden brindarle apoyo y orientación para que no sea tan aterrador. Tenga en cuenta que la comunidad de Carpentries hispano-hablante es aun muy pequena, y por lo tanto la mayoria de las oportunidades estarán en ingles.
+
+En ambos casos (autoorganizado o centralmente organizado), puede comenzar el proceso del taller completando el formulario de solicitud de taller de Carpinterías .
+
+Para obtener más detalles sobre cómo ejecutar cada tipo de taller, consulte:
+
+El manual de carpintería: enseñanza y alojamiento
+o las siguientes referencias específicas del Programa de Lecciones:
+
+Carpintería de datos
+Carpintería de biblioteca
+Páginas del taller de carpintería de software .
+Políticas relacionadas con la capacitación y talleres de instructores Las Carpinterías se pueden encontrar en el repositorio de políticas . Asegúrese de leer la política de no presentación del instructor antes de inscribirse en su primer taller.
 > ## Local Support
 >
 > There is a great list
