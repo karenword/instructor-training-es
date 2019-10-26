@@ -1,71 +1,53 @@
 ---
-title: "Proceso de Checkout"
+title: "Finalización de Certificación"
 teaching: 5
 exercises: 10
 questions:
-- "¿Qué debo hacer para terminar de certificarme como instructor de Carpentries?"
+- "¿Qué debo hacer para terminar de certificarme como Instructor de Carpentries?"
 objectives:
-- "Describa los pasos finales necesarios para calificar como instructor."
-- "Programe su sesión de discusión con el instructor."
+- "Describa los pasos finales necesarios para calificar como Instructor."
+- "Programe su sesión de discusión con el Instructor."
 keypoints:
-- "Para certificar, debe contribuir a una lección, participar en una discusión y hacer una demostración de enseñanza dentro de los 90 días de su evento de capacitación."
+- "Para certificar, debe contribuir a una lección, participar en una discusión y hacer una demostración de enseñanza dentro de los 90 días despues de su capacitación."
 ---
-Finalización de Certificación
-Informacion general
-Enseñanza: 5 min.
-Ejercicios: 10 min.Preguntas
-¿Qué debo hacer para terminar de certificarme como instructor de carpintería?
 
-Objetivos
-Describa los pasos finales necesarios para calificar como instructor.
+Durante este período después del almuerzo, hablaremos sobre algunos de los aspectos básicos de involucrarse en The Carpentries. Primero, discutiremos qué acciones necesitará tomar después de esta capacitación para convertirse en un instructor totalmente certificado. Después de eso, abordaremos cualquier pregunta sobre las organizaciones de carpintería, la realización de talleres y la participación en la comunidad de otras maneras.
 
-Programe su sesión de discusión con el instructor.
+## Formulario de aplicación
 
-Durante este período después del almuerzo, hablaremos sobre algunos de los aspectos básicos de involucrarse en las Carpinterías. Primero, discutiremos qué acciones necesitará tomar después de esta capacitación para convertirse en un instructor totalmente certificado. Después de eso, abordaremos cualquier pregunta sobre las organizaciones de carpintería, la realización de talleres y la participación en la comunidad de otras maneras.
+Asegúrese de haber completado el [formulario de solicitud de instructor de Carpentries](https://amy.software-carpentry.org/forms/request_training/). 
+No podemos seguir tu progreso y convertirte en un instructor oficial sin él. Si ya ha completado este formulario, no necesita enviar otra solicitud.
 
-Formulario de aplicación
-Asegúrese de haber completado el formulario de solicitud de instructor de Carpinterías. No podemos seguir tu progreso y convertirte en un instructor oficial sin él. Si ya ha completado este formulario, no necesita enviar otra solicitud.
+## Finalización de certificación
 
-Comprobación del instructor
-Como leíste en tu tarea anoche, hay tres pasos finales para completar antes de calificar como instructor. La página web de finalización de certificación explica el procedimiento en detalle. Brevemente, los tres pasos son:
+Como leíste en su tarea anoche, hay tres pasos finales para completar antes de calificar como instructor. La página web de
+[finalización de certificación]({{ page.root }}/checkout/) explica el procedimiento en detalle. Brevemente, los tres pasos son:
 
-Haga una contribución al contenido de una lección, ejercicios o notas del instructor haciendo uno de los siguientes:
-- Envíe un cambio (es decir, "pull request") para solucionar un "issue" existente. (Ejemplo, primeros "issues" buenos ).
-- Lea una lección y agregue un nuevo problema que describa algo para mejorar.
-- Proporcione comentarios sustantivos sobre un "issue" o "pull request" existente .
-- Participe en una discusión comunitaria con instructores experimentados.
-Prepárese para enseñar una lección completa de Carpintería (es decir, el contenido del repositorio de una lección). Luego realice una demostración de codificación en vivo por 5 minutos para esa lección, comenzando en un punto elegido por el líder de la sesión.
-Todos los alumnos tienen 3 meses (90 días) desde la fecha de finalización de su capacitación para completar el paso de finalización de la certificación. Si necesita más tiempo, puede solicitar extensiones por hasta un año enviando un correo electrónico a checkout@carpentries.org .
+1. Haga una contribución al contenido de una lección, ejercicios o notas del instructor haciendo uno de los siguientes:
+   1. Envíe un cambio (es decir, "pull request") para solucionar un "issue" existente. (Ejemplo [primeros "issues" buenos](https://github.com/swcarpentry/python-novice-gapminder/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)).
+   2. Lea una lección y agregue un nuevo problema que describa algo para mejorar.
+   3. Proporcione comentarios sustantivos sobre un "issue" o "pull request" existente .
+2. Participe en una [discusión comunitaria][discussion] con instructores experimentados.
+3. Prepárese para enseñar una lección completa de Carpentries (es decir, el contenido del repositorio de una lección). Luego 
+realice una [demostración de codificación en vivo][demo] por 5 minutos para esa lección, comenzando en un punto elegido por el líder de la sesión.
 
-During this period after lunch, we'll be talking about some of the nuts and bolts
-of getting involved in the Carpentries.  First, we'll discuss what actions you'll
-need to take after this training to become a fully certified instructor.  After that,
-we'll address any questions about the Carpentries organizations, running workshops, and
-getting involved in the community in other ways. 
+Todos los alumnos tienen 3 meses (90 días) desde la fecha de finalización de su capacitación para completar el paso de 
+finalización de la certificación. Si necesita más tiempo, puede solicitar extensiones por hasta un año enviando un correo 
+electrónico a [checkout@carpentries.org](mailto: checkout@carpentries.org).
 
-## Application form
 
-Make sure that you have filled out the Carpentries
-[instructor application form](https://amy.software-carpentry.org/forms/request_training/).
-We can not track your progress and make you an official instructor without it. If you have already
-filled out this form, you do not need to submit another application.
+> ## Herramientas de carpintería: Etherpad
+> Etherpad es una herramienta ampliamente utilizada en talleres de Carpentries y muchas otras actividades en la comunidad. 
+> Hay etherpads sobre muchos temas, como los dos en las instrucciones anteriores. 
+> Para que todos puedan ser encontrados, The Carpentries administra un ["pad of pads"](https://pad.carpentries.org/pad-of-pads). 
+> Es excelente para guardar y usar como referencia durante todo el proceso de finalización de la certificación y como miembro recién formado de la comunidad de The Carpentries.
+>
+{: .callout}
 
-## Instructor Checkout
 
-As you read in your homework last night, there are three final steps to complete before qualifying as an instructor. The [instructor checkout webpage]({{ page.root }}/checkout/) explains the procedure in detail. Briefly, the three steps are:
 
-1. Make a contribution to a lesson's content, exercises, or instructor notes by doing **one** of the following:
-   1. Submit a change (i.e. pull request) to fix an existing issue. (Example [good first issues](https://github.com/swcarpentry/python-novice-gapminder/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).)
-   2. Proof-read a lesson and add a new issue describing something to be improved.
-   3. Provide substantive feedback on an existing issue or pull request.
-2.  Take part in a [community discussion][discussion] with experienced instructors.
-3.  Prepare to teach a full Carpentries lesson (i.e. the content of one lesson repository). Then perform a 5-minute [live coding demo][demo] for that lesson starting at a point chosen by the session lead.
 
-All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
-extensions for up to a year may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org).
 
-Herramientas de carpintería: Etherpad
-Etherpad es una herramienta ampliamente utilizada en talleres de carpintería y muchas otras actividades en la comunidad. Hay etherpads sobre muchos temas, como los dos en las instrucciones anteriores. Para que todos puedan ser encontrados, las Carpinterías administran una "Pad of Pads" . Es excelente para guardar y usar como referencia durante todo el proceso de finalización de la certificación y como miembro recién formado de la comunidad de The Carpentries.
 
 Revisando la revisión con preguntas y respuestas
 En grupos pequeños, lea y analice uno de los tres procedimientos de finalización de la certificación enumerados anteriormente y descritos en detalle en esta página . Tome notas en el Etherpad y cuando haya terminado, informe al grupo completo sobre los requisitos de esta etapa del proceso. ¿Aún tiene preguntas sobre la finalización de la certificación?
