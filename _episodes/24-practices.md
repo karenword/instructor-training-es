@@ -13,7 +13,7 @@ keypoints:
 
 ¡Ya casi hemos terminado con nuestro entrenamiento! 
 En este punto, hemos cubierto muchos, muchos temas
-en torno a la enseñanza, el aprendizaje y la tecnología.
+en torno a la enseñanza y el aprendizaje, en especial en el contexto de los talleres de **The Carpentries**.
 
 Los instructores de **The Carpentries** utilizan un conjunto de técnicas de enseñanza basadas en la evidencia de
 investigacion educativa. Hemos hablado de algunas de estas técnicas explícitamente
