@@ -11,7 +11,10 @@ keypoints:
 - "Para certificarse, debe contribuir a una lección, participar en una discusión y hacer una demostración de enseñanza dentro de los 90 días despues de su capacitación."
 ---
 
-Durante este período después del almuerzo, hablaremos sobre algunos de los aspectos básicos de involucrarse en The Carpentries. Primero, discutiremos qué acciones necesitará tomar después de esta capacitación para convertirse en un instructor totalmente certificado. Después de eso, abordaremos cualquier pregunta sobre las organizaciones de carpintería, la realización de talleres y la participación en la comunidad de otras maneras.
+Durante este período después del almuerzo, hablaremos sobre algunos de los aspectos básicos de involucrarse en The 
+Carpentries. Primero, discutiremos qué acciones necesitará tomar después de esta capacitación para convertirse en un 
+instructor totalmente certificado. Después de eso, abordaremos cualquier pregunta sobre las organizaciones de Carpentries, la 
+realización de talleres y la participación en la comunidad de otras maneras.
 
 ## Formulario de aplicación
 
@@ -36,7 +39,8 @@ finalización de la certificación. Si necesita más tiempo, puede solicitar ext
 electrónico a [checkout@carpentries.org](mailto: checkout@carpentries.org).
 
 
-> ## Herramientas de carpintería: Etherpad
+> ## Herramientas de 
+tería: Etherpad
 > Etherpad es una herramienta ampliamente utilizada en talleres de Carpentries y muchas otras actividades en la comunidad. 
 > Hay etherpads sobre muchos temas, como los dos en las instrucciones anteriores. 
 > Para que todos puedan ser encontrados, The Carpentries administra un ["pad of pads"](https://pad.carpentries.org/pad-of-pads). 
@@ -88,19 +92,19 @@ Si contribuir con GitHub es algo nuevo para usted, consulte esta [guía](https:/
 ### ¿Qué hay en una certificado?
 Una vez que haya completado todos los pasos de finalización de la certificación, ¡en aproximadamente 2 semanas recibirá un correo electrónico con su credencial de instructor! ¿Qué significa esto?
 
-* **¡Tienes la oportunidad de enseñar!** Los instructores con credencial están certificados para enseñar en conjunto cualquier lección de carpintería. Todas los certificados de instructor de Carpentries son aceptables para enseñar cualquier lección de Data Carpentry, Library Carpentry, o Software Carpentry. Si bien los instructores sin credencial también pueden enseñar en conjunto, cada taller de la marca Carpentries debe tener un instructor con credencial para liderar el camino.
+* **¡Tienes la oportunidad de enseñar!** Los instructores con credencial están certificados para enseñar en conjunto cualquier lección de Carpentries. Todas los certificados de instructor de Carpentries son aceptables para enseñar cualquier lección de Data Carpentry, Library Carpentry, o Software Carpentry. Si bien los instructores sin credencial también pueden enseñar en conjunto, cada taller de la marca Carpentries debe tener un instructor con credencial para liderar el camino.
 * **¡Tienes que votar!** Los instructores con credencial son elegibles para votar en las elecciones del Consejo Ejecutivo de Carpentries para su primer año y para todos los años posteriores en los que continúen participando a través de la enseñanza u otra participación. Consulte esta [sección de los Estatutos de Carpentries](https://docs.carpentries.org/topic_folders/governance/bylaws.html#eligibility-rights-and-termination-for-voting-members) para conocer las reglas que rigen la elegibilidad para continuar votando.
 * **¡Tienes algo de qué presumir!** ¿Busca vocabulario para describir sus habilidades y experiencia? ¡Aquí hay un [texto (en ingles)](https://github.com/carpentries/commons/blob/master/text-for-instructors.md) para comenzar!
 
 
 > ## Echa un vistazo a la discusión (opcional)
 > Como instructor, ¡tu voz es importante! Queremos que participe activamente en las discusiones sobre los materiales de la 
-> lección (y otros aspectos de la comunidad de Carpinterías). Vaya a la página de GitHub para ver la lección con la que 
+> lección (y otros aspectos de la comunidad de Carpentries). Vaya a la página de GitHub para ver la lección con la que 
 > trabajó durante los últimos dos días y haga clic en la pestaña "Issues". Lea algunas de las discusiones y, si tiene algo que 
 > agregar, ¡agréguelo a la conversación! Si desea hacer una "pull request", asegúrese de examinar las pautas de contribución 
 > para el repositorio en el que está trabajando. Si realiza una contribución significativa a la discusión, envíe un enlace al 
 > problema a [checkout@carpentries.org](mailto: checkout@carpentries.org) . ¡Felicidades! Acaba de completar uno de los tres 
-> pasos restantes para convertirse en instructor de carpintería.
+> pasos restantes para convertirse en instructor de Carpentries.
 > 
 > Deje unos 5-10 minutos para este ejercicio.
 {: .challenge}
@@ -111,7 +115,7 @@ Una vez que haya completado todos los pasos de finalización de la certificació
 > Las sesiones de discusión no son solo para instructores en formación que trabajan para obtener su certificación.
 > Se alienta a los instructores a participar en las discusiones antes y después de cada uno de sus talleres, para que puedan 
 > seguir aprendiendo unos de otros y avanzar en sus habilidades de enseñanza. ¡Para obtener aún más apoyo, considere 
-> participar en nuestro programa de [Mentoría de Carpinterías][mentoring]!
+> participar en nuestro programa de [Mentoría de Carpentries][mentoring]!
 {: .callout}
 
 
