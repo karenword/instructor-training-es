@@ -4,301 +4,261 @@ block: "The Carpentries"
 teaching: 30
 exercises: 45
 questions:
-- "How is The Carpentries organized and run?"
-- "What is the difference between SWC, DC, and LC workshops?"
-- "How do you run a Carpentries workshop?"
+- "¿Cómo se organiza The Carpentries?"
+- "Cuáles son las diferencias entre los talleres DC, LC, y SWC?"
+- "¿Cómo se ejecuta un taller de Carpentries?"
 objectives:
-- "Get connected with the Carpentry community."
-- "Describe where you can go to get information on running a workshop."
+- "Conéctese con la comunidad de Carpentries."
+- "Describa a dónde puede ir para obtener más información."
 keypoints:
-- "Carpentry materials are all openly licensed, but Software and Data Carpentry names and logos are trademarked."
-- "Carpentry workshops must cover core concepts, have at least one certified instructor, and use our pre- and post-workshop surveys."
-- "[Guidance for teaching and hosting workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) is provided in [The Carpentries Handbook](https://docs.carpentries.org)."
+- "Todos los materiales de Carpentries tienen licencia abierta, pero los nombres y logotipos de The Carpentries, Data 
+Carpentry, Library Carpentry, and Software Carpentry están registrados."
+- "Los talleres de Carpentries deben cubrir conceptos básicos, tener al menos un instructor certificado y utilizar nuestras 
+encuestas previas y posteriores al taller."
+- "En [The Carpentries Handbook](https://docs.carpentries.org) se proporciona orientación para la [enseñanza y la organización de talleres](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)."
 
 ---
+Al convertirse en un [instructor certificado de Carpentries](https://carpentries.org/instructors/), también se está 
+convirtiendo en parte de una comunidad de voluntarios con ideas afines. Esta sección proporciona algunos antecedentes sobre la 
+organización [The Carpentries]({{ site.carpentries_site }}), cómo participar en una de nuestras actividades principales 
+(llevar a cabo talleres) y otras formas de involucrarse con la comunidad.
 
-In becoming a certified [Carpentries instructor](https://carpentries.org/instructors/),
-you are also becoming part of a community of like-minded volunteers.
-This section provides some background on
-[The Carpentries]({{ site.carpentries_site }}) organization, how to participate
-in one of our primary activities (running workshops), and other ways to get
-involved with the community.
+## Una Breve Historia
 
-## A Brief History
+[Software Carpentry]({{ site.swc_site }}) se fundó en 1998 con la misión de enseñar habilidades para la investigación en 
+computación. [Data Carpentry]({{ site.dc_site }}) se fundó en 2014 con la misión de construir comunidades que enseñen la 
+alfabetización universal de datos. También en 2014, [Library Carpentry]({{ site.lc_site }}) se fundó con la misión de enseñar 
+habilidades de manejo de datos a personas que trabajan en roles relacionados con la biblioteca y la información.
 
+El 1 de enero de 2018, Software Carpentry y Data Carpentry fusionaron sus proyectos para formar un nuevo proyecto llamado [The Carpentries]({{ site.carpentries_site }})
+bajo el patrocinio de [Community Initiatives](https://communityin.org/). Dentro de esta nueva estructura organizacional, 
+Software and Data Carpentry conservan sus identidades individuales como "lesson programs" de The Carpentries. El 1 de 
+noviembre de 2018, el Consejo Ejecutivo de Carpentries aprobó [Library Carpentry]({{ site.lc_site }}) como el tercer "lesson 
+program" oficial de The Carpentries.
 
-[Software Carpentry]({{ site.swc_site }}) was founded in 1998 with the mission of teaching lab skills for research computing.
-[Data Carpentry]({{ site.dc_site }}) was founded in 2014 with the mission of building communities teaching universal data literacy.
+El proyecto Carpentries comprende comunidades de Instructores, Entrenadores, Mantenedores, Ayudantes y simpatizantes de [Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) y [Library Carpentry]({{ site.lc_site }}) que 
+comparten la misión de enseñar habilidades básicas de computación y ciencia de datos.
 
-Also in 2014, [Library Carpentry]({{ site.lc_site }}) was founded with the mission of teaching data skills to people working in library- and information-related roles.
-
-On January 1, 2018, Software Carpentry and Data Carpentry merged
-their projects to form a new project called
-[The Carpentries]({{ site.carpentries_site }})
-under the fiscal sponsorship of
-[Community Initiatives](https://communityin.org/).
-Within this new organization structure, Software Carpentry and Data Carpentry retain their individual identities as Lesson Programs of the Carpentries.
-On November 1, 2018, The Carpentries Executive Council
-approved [Library Carpentry]({{ site.lc_site }})
-as the third official Lesson Program of the Carpentries.
-
-The Carpentries project comprises communities of Instructors, Trainers,
-Maintainers, helpers, and supporters from
-[Software Carpentry]({{ site.swc_site }}), [Data Carpentry]({{ site.dc_site }}) and [Library Carpentry]({{ site.lc_site }})
-who share a mission to teach foundational computational and data science skills.
 
 ![A brief history](../fig/SWCDChistory.png)
 
-You can learn more about the history and goals of each Lesson Program by reading
+Puede obtener más información sobre la historia y los objetivos de cada Programa de Lección leyendo
 "[Software Carpentry: Lessons Learned](https://f1000research.com/articles/3-62/v2)",
 "[Data Carpentry: Workshops to Increase Data Literacy for Researchers](http://ijdc.net/index.php/ijdc/article/view/10.1.135)" and
 "[Library Carpentry: software skills training for library professionals](https://www.liberquarterly.eu/article/10.18352/lq.10176/)"".
 
-## Similarities and Differences between The Carpentries Lesson Programs
+## Similitudes y diferencias entre los Carpentries Lesson Programs
 
-All lesson programs under The Carpentries share the same value
-of promoting efficient, shareable, and reproducible research practices.
-Their aligned missions are accomplished by running accessible, inclusive training workshops; teaching openly available, high-quality, community-developed lessons; and fostering an active, inclusive, diverse instructor community that promotes and models reproducible research as a community norm.
+Todos los programas de lecciones de The Carpentries comparten la misma intención de promover prácticas de investigación 
+eficientes, comunicables y reproducibles. Sus misiones alineadas se logran mediante la realización de talleres de capacitación 
+accesibles e inclusivos; enseñanza de lecciones de alta calidad, desarrolladas por la comunidad y de libre disposición; y 
+fomentando una comunidad de instructores activa, inclusiva y diversa que promueve la investigación reproducible.
 
-Similarities between Software, Data and Library Carpentry workshops include:
-*   a focus on technical skills.
-*   an two-day format taught by volunteer instructors.
-*   a focus on filling gaps in current training for learners.
+Las similitudes entre los talleres de Software, Data and Library Carpentry incluyen:
 
-The major differences between Software, Data and Library Carpentry workshops
-are their content and intended audience.
+*  un enfoque en las habilidades técnicas.
+*  un formato de dos días impartido por instructores voluntarios. (El largo de estos talleres podria ser flexible.)
+*  especial attencion en llenar vacíos en las habilidades de los estudiantes actuales.
 
-Software Carpentry workshops are:
+Las principales diferencias entre los talleres de Software, Data and Library Carpentry son su contenido y la audiencia prevista.
 
-*   intended for people who need to program more effectively to solve their
-computational challenges,
-*   not domain-specific, and
-*   modular---each Software Carpentry lesson is standalone.
+Los talleres de Software Carpentry son:
 
-Data Carpentry workshops:
+*  destinado a personas que necesitan programar de manera más efectiva para resolver sus desafíos computacionales,
+*  no específico del area de estudio, y
+*  modular: cada lección de Software Carpentry es independiente.
 
-*   are aimed at pure novices,
-*   are domain-specific,
-*   focus on best practices surrounding data, and
-*   present a full curriculum centered around a single data set.
+Talleres de Data Carpentry:
 
-Library Carpentry workshops:
+*  están dirigidos a principiantes sin experiencia previa,
+*  son específicos del area de estudio,
+*  se centran en buenas prácticas del manejo de datos, y
+*  presentar un plan de estudios completo centrado en un solo conjunto de datos.
 
-*   are aimed at people in library- and information-related roles,
-*   focus on best practices in data structure, and
-*   are modular---each Library Carpentry lesson is standalone.
-*   are sometimes less than two days.
+Talleres de Library Carpentry:
 
-In a visual representation, these similarities and differences look like this:
+*  están dirigidos a personas en funciones relacionadas con la biblioteca y la información,
+*  se centran en buenas prácticas de la estructura de datos, y
+*  son modulares: cada lección de Library Carpentry es independiente.
+*  A veces son menos de dos días.
+
+En una representación visual, estas similitudes y diferencias se ven así:
 
 ![Carpentries Similarities and Differences](../fig/carpentries-venn-diagram_20190522.svg)
 
+## ¿Qué es un taller de Carpentries? Las normas.
 
-## What is a Carpentries Workshop? The Rules.
+### Usando los nombres y logotipos
 
-### Using the Names and Logos
+Los nombres "Software Carpentry", "Data Carpentry" y "Library Carpentry" y sus respectivos logotipos están 
+todos registrados. Solo puede llamar a un taller taller de Data Carpentry, Library Carpentry, o Software Carpentry si:
 
-The names "Software Carpentry", "Data Carpentry" and "Library Carpentry"
-and their respective logos
-are all trademarked.
-You may only call a workshop a Software Carpentry, Data Carpentry, or Library Carpentry workshop if:
+*  Cubre los temas centrales (ver más abajo),
+*  al menos uno de los instructores es un instructor certificado de Carpentries,
+*  ejecuta nuestras evaluaciones estandarizadas antes y después del taller y se asegura de que todos participen, y
+nos envía información resumida sobre los asistentes (como mínimo, la cantidad de personas que asistieron).
 
-*   it covers the core topics (see below),
-*   at least one of the instructors is a certified Carpentries Instructor,
-*   you run our standardized pre- and post-workshop assessments and ensure everyone participates, and
-*   you send us summary information about attendees (at a minimum, the number of people who attended).
+### Materiales
 
-### Materials
+Tenga en cuenta que los materiales de lecciones individuales de Data Carpentry, Library Carpentry, y Software Carpentry están disponibles gratuitamente bajo una [open license]({{ page.root }}{% link LICENSE.md %}). Esto significa que 
+puede usarlos en contextos fuera de un taller de Carpentries (por ejemplo, como material introductorio en un curso más largo, 
+como una sesión independiente de 2-3 horas, como ejercicios de tarea, etc.) siempre que cite la fuente original.
 
-Note that the individual Software Carpentry, Data Carpentry, and Library Carpentry lessons
-materials are freely available under a permissive [open license]({{ page.root }}{% link LICENSE.md %}).
-This means that you may use them in contexts outside a Carpentries workshop (e.g. as material
-introduced into a longer course, as a standalone 2-3 hour session, as homework exercises, etc.)
-provided you cite the original source.
+Es solo cuando desea ejecutar un taller con la marca “Carpentries” es que debe utilizar los requisitos enumerados anteriormente.
 
-It is only when you want to run a branded "Carpentries" workshop using the materials
-that the requirements listed above are needed.
 
-### What is the Core Curriculum?
+### ¿Qué es el plan de estudios básico?
+Un taller de Software Carpentry debe incluir [lecciones](https://software-carpentry.org/lessons/index.html) sobre control de versiones (por ejemplo, Git), el shell de UNIX y un lenguaje de programación (por ejemplo, R o Python).
 
-A Software Carpentry workshop must include [lessons](https://software-carpentry.org/lessons/index.html)
-on version control (e.g. Git), the UNIX shell,
-and a programming language (e.g. R or Python).
+Un taller de Data Carpentry debe incluir una lección de Data Carpentry [lesson](https://datacarpentry.org/lessons/) sobre organización de datos y otros tres módulos en el mismo area del plan de estudios de Data Carpentry. Los planes de estudio publicados incluyen los materiales del taller de Ecología, Genómica, Ciencias Sociales y Geoespaciales. Además, se están desarrollando currículos de astronomía, humanidades digitales, economía y análisis de imágenes.
 
-A Data Carpentry workshop must include a Data Carpentry [lesson](https://datacarpentry.org/lessons/)
-on data organization and three
-other modules in the same domain from the Data Carpentry curriculum.
-Published curricula include the Ecology, Genomics, Social Science and Geospatial workshop materials.
-Additionally, Astronomy, Digital humanities, Economics and Image analysis curriculum are under development.
+Un taller de Library Carpentry debe incluir de tres a cuatro de las [lecciones principales](https://librarycarpentry.org/lessons/#core-curriculum) , que incluyen una introducción a los datos, el shell de UNIX, OpenRefine y Git. Library Carpentry también mantiene un conjunto "extendido" de lecciones que se pueden enseñar además del plan de estudios básico. Estas lecciones se enseñan con poca frecuencia o están en desarrollo e incluyen: SQL, webscraping, Python y una introducción a los datos para los bibliotecario.
 
-A Library Carpentry workshop must include three to four of the
-[core lessons](https://librarycarpentry.org/lessons/#core-curriculum), which include an introduction to data, the UNIX shell, OpenRefine, and Git.
-Library Carpentry also maintains an "extended" set of lessons
-that can be taught in addition to the core curriculum
-These lessons are taught infrequently or are under development and include:
-SQL, webscraping, Python and an introduction to data for archivists.
+Cada leccion esta compuesta por diferentes "episodios." Vea un ejemplo [aqui](https://swcarpentry.github.io/shell-novice-es/), donde "Navegación de archivos y directorios" o "Pipes y Filtros" son episodios. Dentro de estas pautas, hay flexibilidad en los episodios de la lección que cubre, los ejercicios que usa y si incluye episodios opcionales.
 
-Within these guidelines, there is flexibility in which episodes of the lesson you cover,
-which exercises you use, and whether you include optional materials (e.g. callouts) and
-optional episodes.
+### ¿Quién puede enseñar qué?
 
-### Who Can Teach What
+Las personas que hayan completado el curso de capacitación de instructores de dos días y hayan completado la [finalización de certificación]({{ page.root }}/checkout/) se consideran instructores de Carpentries "certificados" y pueden enseñar los planes de estudio para cualquiera de los programas de lecciones (Software Carpentry, Data Carpentry, or Library Carpentry). Si bien los certificados de Instructor pueden tener una afiliación al programa de lecciones primarias, **no se requiere que los instructores se certifiquen por separado para cada uno**. Para obtener más información, consulte la descripción del procedimiento de [finalización de la certificación]({{ page.root }}/checkout/).
 
-People who have gone through the two-day instructor training course and completed
-the [the checkout process]({{ page.root }}/checkout/) are considered "certified"
-Carpentries instructors and can teach curricula for **any** of the lesson programs
-(Software Carpentry, Data Carpentry, or Library Carpentry)
-as they feel able. While instructor badges
-may list a primary lesson program affiliation, instructors are **not** required to certify separately for each. For more
-information, see the description of [the instructor checkout procedure]({{ page.root }}/checkout/).
+Tenga en cuenta que mientras tenga al menos un instructor certificado, los otros instructores y ayudantes en un taller de marca Carpentries no tienen que estar certificados. Confiamos en el criterio de los organizadores locales para reclutar y orientar voluntarios que encarnen el espíritu y las prácticas de Carpentries.
 
-Note that as long as you have at least one certified instructor, the other
-instructors and helpers at a branded workshop do not have to be certified. We
-rely on the judgment of local organizers to recruit and orient volunteers who
-will embody the Carpentries ethos and practices.
 
-> ## Local Support
+> ## Apoyo local
 >
-> There is a great list
 >
-> here in the handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist).
+> Vea aquí en el Carpentries Handbook [Helper Checklist and Suggestions](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist).
 {: .callout}
 
-## How to Run a Carpentries Workshop
 
-The [**Carpentries Handbook**](https://docs.carpentries.org/) is a community-developed resource that
-provides tips, checklists, and points of contact for nearly all Carpentries-related activities in one location.
-The Carpentries Handbook is the definitive source for policies and information.
-Here, we will cover some information about actually running a workshop.
+## Cómo ejecutar un taller de Carpentries
 
-Briefly, there are two types of Carpentry workshops: centrally-organized and
-self-organized. Centrally-organized workshops are organized by a team of
-[Regional Coordinators](https://carpentries.org/regionalcoordinators/) who take care of logistics and administration such as
-finding instructors and handling workshop registration. For self-organized
-workshops, the organization hosting the event is responsible for these details.
+El [**Carpentries Handbook**](https://docs.carpentries.org/) es un recurso desarrollado por la comunidad que proporciona consejos, listas de verificación y puntos de contacto para casi todas las actividades relacionadas con Carpentries en un solo lugar. El Carpentries Handbook es la fuente de políticas e información. Aquí, cubriremos información sobre cómo llevar a cabo un taller.
 
-> ## Workshops as an Instructor
+En resumen, hay dos tipos de talleres de Carpentries: centralmente organizados y autoorganizados. Los talleres organizados 
+centralmente están organizados por un equipo de [coordinadores regionales](https://carpentries.org/regionalcoordinators/) que 
+se encargan de la logística y la administración, como encontrar instructores y manejar el registro de participantes del 
+taller. Para los talleres autoorganizados, la organización que organiza el evento es responsable de estos detalles.
+
+
+> ## Talleres como instructor
+> Como instructor, es posible que enseñe principalmente en talleres locales o que no tenga oportunidades locales, o 
+> simplemente desee enseñar en otro lugar.
 >
-> As an instructor, you may be primarily teaching at local workshops or you
-> may not have local opportunities, or you may just want to
-> teach somewhere else.
+> Si desea enseñar de manera no local, debe asegurarse de unirse a nuestra lista de correo de instructores para recibir 
+> notificaciónes a cerca de las próximas oportunidades de enseñanza. Discutirémos esto a continuación.
 >
-> If you want to teach non-locally, you should be sure to join our instructor
-> mailing list during the community exercise below, so that you hear about
-> upcoming teaching opportunities.
->
-> Note that the Carpentries does not guarantee
-> that instructors will get to teach at workshops after they are trained, so the
-> best way to make sure that you get to teach (if you want) is to try running
-> a workshop or even a single lesson yourself. It can seem daunting to organize
-> your own workshop, but as long as you have 1-2 people who can either help or
-> co-instruct, the Carpentries staff and community can provide
-> support and guidance so that it's not so scary!
+> Tenga en cuenta que Carpentries no garantiza que los instructores puedan enseñar en los talleres después de recibir 
+> capacitación, por lo que la mejor manera de asegurarse de que pueda enseñar (si lo desea) es intentar organizar un taller o 
+> incluso una sola lección por si mismo. Puede parecer desalentador organizar su propio taller, pero siempre y cuando tenga de 
+> 1 a 2 personas que puedan ayudar o co-instruir, el personal y la comunidad de Carpentries pueden brindarle apoyo y 
+> orientación para que no sea tan aterrador. Tenga en cuenta que la comunidad de Carpentries hispano-hablante es aun muy 
+> pequena, y por lo tanto la mayoria de las oportunidades estarán en ingles.
 {: .callout}
 
-In both cases (self- or centrally-organized), you can start the workshop
-process by completing the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/).
 
-For more details on how to run each type of workshop, see:
+En ambos casos (autoorganizado o centralmente organizado), puede comenzar el proceso del taller completando el formulario de 
+[Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/).
+
+Para obtener más detalles sobre cómo ejecutar cada tipo de taller, consulte:
+
 * [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)
 
-or the the following Lesson Program specific references:
+o las siguientes referencias específicas del Programa de Lecciones:
+
 * [Data Carpentry](http://www.datacarpentry.org/workshops-host/)
 * [Library Carpentry](https://librarycarpentry.org/workshops/)
-* [Software Carpentry](https://software-carpentry.org/workshops/request/) workshop pages.
+* [Software Carpentry](https://software-carpentry.org/workshops/request/)
 
-Policies related to instructor training and workshops The Carpentries can be found in [the policies repository](https://github.com/carpentries/policies). Please
-be sure to read through the [instructor no-show policy](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) before signing up for your first workshop.
+Políticas relacionadas con la capacitación y talleres de instructores Carpentries se pueden encontrar en el [repositorio de políticas](https://github.com/carpentries/policies). 
+Asegúrese de leer la política del [ausencia del instructor](https://github.com/carpentries/policies/blob/master/instructor-no-show-policy.md) antes de inscribirse en su primer taller. 
+En resumen, si su asistencia ha sido pagada y usted no se presenta, podría ser que usted fuera responsable del costo de este viaje. 
 
-### Setting Up
 
-In order to communicate with learners,
-and to help us keep track of who's taught what and where,
-each workshop's instructors create a one-page website with information about their workshop.
-Once that has been created,
-the host or lead instructor sends its URL to
-the [workshop coordinator](mailto:team@carpentries.org),
-who adds it to our records.
-The workshop will show up on our websites shortly thereafter.
+### Organization previa a un taller
 
-You may also create an etherpad for your own Carpentries-related events. When you point a browser to a url at
-`pad.carpentries.org/name-of-pad` you will either arrive at an existing etherpad by that name or a brand new
-etherpad with basic Carpentries information at the top.  For workshops we use `year-month-day-venue` as the name
-to ensure unique names.
+Con el fin de comunicarnos con los alumnos y ayudarnos a realizar un seguimiento de quién enseñó qué y dónde, los instructores 
+de cada taller crean un sitio web de una página con información sobre su taller. Una vez que se ha creado, el anfitrión o 
+instructor principal envía su URL al [workshop coordinator](mailto:team@carpentries.org), quien lo agrega a nuestros 
+registros. El taller se mostrará en nuestros sitios web poco después.
 
-> ## Practice With The Carpentries Infrastructure
+También puede crear un etherpad para sus propios eventos relacionados con Carpentries. Cuando visite una url en 
+`pad.carpentries.org/nombre-de-pad`, llegará a un etherpad existente con ese nombre o a un nuevo etherpad con información 
+básica de Carpentries en la parte superior. Para los talleres, utilizamos `año-mes-día-ubicación` como el nombre para asegurar 
+nombres únicos.
+
+> ## Practique con la infraestructura de Carpentries
 >
-> Go to the [workshop template repository]({{ site.workshop_repo }})
-> and follow the directions to create a workshop website using your local location and today's date.
-> Put the link for your workshop website into the Etherpad.
->
-> This exercise should take about 25 minutes.
->
-> Note: Sometimes web browsers will cache the workshop webpage, so when
-> you make changes in GitHub, they don't show up on the workshop webpage
-> immediately.  Two ways to avoid this are to use a "private" or
-> "incognito" mode in your web browser or by following these
-> [instructions to bypass your browser cache](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache).
-{: .challenge}
-
-> ## Question and Answer
->
-> What questions do you have about running and teaching at a workshop? Talk with a partner and
-> enter your questions into the Etherpad. At this time we will also return to discuss questions remaining from the beginning of the day.
->
-> Leave about 10 minutes for this discussion.
+> Vaya al [workshop template repository]({{ site.workshop_repo }}) y siga las instrucciones para crear un sitio web del taller 
+> utilizando su ubicación local y la fecha de hoy. Ponga el enlace para el sitio web de su taller en el Etherpad.
+> 
+> Este ejercicio debería tomar unos 25 minutos.
+> 
+> Nota: A veces, los navegadores web almacenan en caché la página web del taller, por lo que cuando realiza cambios en GitHub, 
+> no se muestran en la página web del taller de inmediato. Dos formas de evitar esto son utilizar un modo "privado" o 
+> "incógnito" en su navegador web o siguiendo estas [instrucciones](https://en.wikipedia.org/wiki/Wikipedia:Bypass_your_cache) 
+> para omitir la memoria caché de su navegador .
 {: .challenge}
 
 
-## A Culture of Contribution
-
-In the same way that we hope to promote a
-culture of openness, sharing,
-and reproducibility in science and research through training researchers with
-the tools they need, the
-Carpentry organizations themselves aim to be open, collaborative, and
-based on best practices.  We want to draw together the collective expertise of
-our teaching community to create collaborative lessons, share other materials,
-and improve the lessons via "bug fixes" as we go along.
-
-> ## Lesson Incubation
+> ## Pregunta y respuesta
 >
-> Maybe this instructor training has inspired you to go home and write your
-> own fantastic lesson!  If you'd like to model it after the Software, Data and
-> Library Carpentry lesson format, you can find a template and instructions in [the Carpentries lesson example repository]({{ site.example_repo }}).
+> ¿Qué preguntas tienes sobre organizar y enseñar en un taller? Hable con un compañero e ingrese sus preguntas en el Etherpad. 
+> En este momento también volveremos a discutir las preguntas que quedan desde el comienzo del día.
+>
+> Deje unos 10 minutos para esta discusión.
+{: .challenge}
+
+## Una Cultura de Contribución
+
+De la misma manera que esperamos promover una cultura de apertura, intercambio y reproducibilidad en la ciencia y la 
+investigación a través de la capacitación de investigadores con las herramientas que necesitan, las propias organizaciones de 
+Carpentries apuntan a ser abiertas, colaborativas y basadas en buenas prácticas. Queremos reunir la experiencia colectiva de 
+nuestra comunidad docente para crear lecciones colaborativas, compartir otros materiales y mejorar las lecciones a través de 
+"correcciones de errores" a medida que avanzamos.
+
+> ## Incubación de lecciones
+>
+> ¡Tal vez esta capacitación de instructores te haya inspirado a ir a casa y escribir tu propia lección fantástica! Si desea 
+> crearlo segun el formato de la lección de Software, Data o Library Carpentry, puede encontrar una plantilla e 
+> instrucciones en el [Carpentries lesson example repository]({{ site.example_repo }}).
 {: .callout}
 
-> ## Many Ways to Contribute
->
-> We recognize that the medium of GitHub may be restrictive to those
-> who wish to contribute to our lessons.  We are always searching for
-> ways to make the process more friendly to all, whether that be
-> contribution training, or alternative routes to contribution.  If you
-> have any ideas how we might make contribution more contributor-friendly,
-> please let us know.
+> ## Muchas formas de contribuir
+> 
+> Reconocemos que el medio de GitHub puede ser restrictivo para aquellos que desean contribuir a nuestras lecciones. Siempre
+> estamos buscando formas de hacer que el proceso sea más amigable para todos, ya sea capacitación de contribución o rutas
+> alternativas. Si tiene alguna idea de cómo podemos hacer que la contribución sea más fácil para los contribuyentes,
+> háganoslo saber.
 {: .callout}
 
-Being part of a friendly, open discussion, is of equal or greater importance
-to the community than submitting the perfect lesson change.  The
-[checkout process]({{ page.root }}/checkout/) to become a certified instructor will be
-one way to start connecting to the community and find which area will allow you
-to contribute best.
+Ser parte de una discusión amistosa y abierta es de igual o mayor importancia para la comunidad que presentar una lección 
+perfecta. El proceso de [finalización]({{ page.root }}/checkout/) para convertirse en un instructor certificado será una forma 
+de comenzar a conectarse con la comunidad y encontrar qué área le permitirá contribuir mejor.
 
-## The Carpentries Community
 
-As you can imagine, based on the above, there are many aspects of running the Carpentries!
-While there are a small number of dedicated staff who work for the Carpentries organization,
-the real power of the Carpentries is in its community of volunteers that take on all sorts of
-roles to teach and organize workshops, help produce and maintain lessons, and most importantly,
-build local and global communities of practice around  skills for data analysis, computational thinking, and research software development. Our community depends on individuals like you who are passionate about expanding these communities of practice through inclusive and evidence-based instructional practices, and can contribute your perspective and expertise to continually refine our instructional materials and practices.  A full description of the breadth and diversity of community member roles, an overview of the Carpentries' various social media channels, a calendar of future community events, and descriptions of mailing lists used by the community can be found [here on the Carpentries website](http://static.carpentries.org/community/) and also on the [getting connected page](https://carpentries.org/connect/).
+## La comunidad de Carpentries
+Como puede imaginar, sobre la base a lo anterior, ¡hay muchos aspectos en la ejecución de Carpentries! Si bien hay una pequeña 
+cantidad de personal dedicado que trabaja para la organización Carpentries, el verdadero poder de las Carpentries está en su 
+comunidad de voluntarios que asumen todo tipo de roles para enseñar y organizar talleres, ayudar a producir y mantener 
+lecciones, y lo más importante , crear comunidades de práctica locales y globales en torno a habilidades para el análisis de 
+datos, el pensamiento computacional y el desarrollo de software de investigación. Nuestra comunidad depende de personas como 
+usted a quienes les apasiona expandir estas comunidades a través de prácticas de instrucción inclusivas y basadas en 
+evidencia. Ustedes pueden contribuir con su perspectiva y experiencia para refinar continuamente nuestros materiales y 
+prácticas de instrucción. Puede encontrar i) una descripción completa de la amplitud y diversidad de los roles de los miembros 
+de la comunidad, ii) una descripción general de los diversos canales de redes sociales de Carpentries, iii) un calendario de 
+futuros eventos de la comunidad y iv) descripciones de las listas de correo utilizadas por la comunidad [aquí](http://static.carpentries.org/community/) en el sitio web de Carpentries y también en la página de [conexión](https://carpentries.org/connect/) .
 
-> ## Participating in the Carpentries -- What's Your Role?
+
+> ## Participando en The Carpentries: ¿cuál es su papel?
 >
-> If you are at an in-person training, your instructor will hand out paper copies of a worksheet. If you are at an online training, you can get a [digital copy here]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v4.pdf).
+> Si está en una capacitación en persona, su instructor le entregará copias en papel de una hoja de trabajo. Si está en una
+> capacitación en línea, puede obtener una copia digital [aquí]({{ page.root }}/files/handouts/Carpentries_roles_worksheet_v4.pdf).
 >
-> Take a moment to review member community roles on the [Carpentries' community website](http://static.carpentries.org/community/). Working on your own, match up the roles with the descriptions. When you are done, think about the question at the bottom of the worksheet about what roles you might play, and enter your thoughts in the Etherpad.
+> Tómese un momento para revisar los roles de la comunidad de miembros en el sitio web de la [comunidad](http://static.carpentries.org/community/) de Carpentries. 
+> Trabajando por su cuenta, combine los roles con las descripciones. Cuando termine, piense en la pregunta que se encuentra al
+> final de la hoja de trabajo sobre los roles que podría desempeñar e ingrese sus ideas en el Etherpad.
 >
->> ## Solution
+>> ## Solución 
 >> Instructors: C
 >> Mentors: E
 >> Trainers: D
@@ -312,10 +272,14 @@ build local and global communities of practice around  skills for data analysis,
 >> Regional Coordinator: A
 >> Code of Conduct Committee: G
 > {: .solution}
-> This exercise should take about 10 minutes.
+>
+> Este ejercicio debería tomar unos 10 minutos.
 {: .challenge}
 
-> ## Get Connected
+> ## Conectarse
 >
-> Take a couple of minutes to sign up for the Carpentry discussion channels you want to stay involved with.
+> Tómese un par de minutos para inscribirse en los canales de discusión de Carpentries con los que desea participar.
 {: .challenge}
+
+
+
