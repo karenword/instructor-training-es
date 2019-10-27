@@ -1,5 +1,5 @@
 ---
-title: "Putting It Together"
+title: "Poniendo Todo Junto"
 teaching: 5
 exercises: 15
 questions:
