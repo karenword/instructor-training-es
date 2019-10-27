@@ -3,7 +3,7 @@ title: "Putting It Together"
 teaching: 5
 exercises: 15
 questions:
-- "¿Cómo se utilizan las prácticas de enseñanza que hemos aprendido en nuestros talleres? 
+- "¿Cómo se utilizan las prácticas de enseñanza que hemos aprendido en nuestros talleres?" 
 objectives:
 - "Organiza tu conocimiento de las prácticas de enseñanza y crea un plan para usar estas prácticas en un taller de **The Carpentries**."
 keypoints:
