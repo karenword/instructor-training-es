@@ -246,7 +246,13 @@ usted a quienes les apasiona expandir estas comunidades a través de prácticas 
 evidencia. Ustedes pueden contribuir con su perspectiva y experiencia para refinar continuamente nuestros materiales y 
 prácticas de instrucción. Puede encontrar i) una descripción completa de la amplitud y diversidad de los roles de los miembros 
 de la comunidad, ii) una descripción general de los diversos canales de redes sociales de Carpentries, iii) un calendario de 
-futuros eventos de la comunidad y iv) descripciones de las listas de correo utilizadas por la comunidad [aquí](http://static.carpentries.org/community/) en el sitio web de Carpentries y también en la página de [conexión](https://carpentries.org/connect/) .
+futuros eventos de la comunidad y iv) descripciones de las listas de correo utilizadas por la comunidad [aquí](http://static.carpentries.org/community/) en el sitio web de Carpentries y también en la página de [conexión](https://carpentries.org/connect/).
+
+## La comunidad Latinoamericana
+Algunos recursos especifica de nuestra communidad Latinoamericana son:
+* [La lista de correo "local-latinoamerica"](https://carpentries.topicbox.com/groups/local-latinoamerica)
+* El canal "carpentries-es" en [Slack](https://swc-slack-invite.herokuapp.com/) (Haga clic en "canales" y busque "carpentries-es")
+* Estas publicaciónes de blog sobre [la traducción de lecciones de Software Carpentry al español](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) y [la capacitación de instructores en español](https://carpentries.org/blog/2018/08/latin-ttt/)
 
 
 > ## Participando en The Carpentries: ¿cuál es su papel?
@@ -275,6 +281,7 @@ futuros eventos de la comunidad y iv) descripciones de las listas de correo util
 >
 > Este ejercicio debería tomar unos 10 minutos.
 {: .challenge}
+
 
 > ## Conectarse
 >
